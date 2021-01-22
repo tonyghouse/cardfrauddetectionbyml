@@ -7,7 +7,7 @@
      
 
 	  	Class.forName("com.mysql.jdbc.Driver");	
-		connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/cc_fraud","root","root");
+		connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/cc_fraud","root","");
       	String sql="";
 
 	}
