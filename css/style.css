@@ -1,11 +1,15 @@
 
 @charset "utf-8";
+@font-face{
+	font-family:'mohave';
+	src:url("../assets/fonts/mohave/Mohave-Regular.otf");
+}
 body {
 	margin:0;
 	padding:0;
 	width:100%;
-	color:#6d6d6d;
-	font:normal 12px/1.5em "Liberation sans", Arial, Helvetica, sans-serif;
+	color:#0e3956;
+	font:normal 14px/1.6em 'mohave','Liberation sans', Arial, Helvetica, sans-serif;
 	background:#fff url(../images/main_bg.gif) repeat-x left top;
 }
 html, .main {
@@ -28,14 +32,14 @@ h2 {
 	padding:8px 0;
 	font-size:24px;
 	font-weight:normal;
-	color:#6e6e6e;
+	color:#0e3956;
 }
 p {
 	margin:8px 0;
 	padding:0 0 8px 0;
 }
 a {
-	color:#9eb8dd;
+	color:#0e3956;
 	text-decoration:underline;
 }
 .header, .content, .menu_nav, .fbg, .footer, form, ol, ol li, ul, .content .mainbar, .content .sidebar {
@@ -183,7 +187,7 @@ h1 small {
 	width:440px;
 }
 .content .mainbar .post_content strong {
-	color:#6d6d6d;
+	color:#0e3956;
 }
 .content .sidebar {
 	padding:0;
@@ -225,7 +229,7 @@ ul.ex_menu li a {
 	text-decoration:none;
 }
 ul.sb_menu li a:hover, ul.ex_menu li a:hover {
-	color:#9eb8dd;
+	color:#0e3956;
 	font-weight:bold;
 	text-decoration:none;
 }
