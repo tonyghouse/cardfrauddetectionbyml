@@ -2,7 +2,7 @@
 @charset "utf-8";
 @font-face{
 	font-family:'mohave';
-	src:url("../assets/fonts/mohave/Mohave-Regular.otf");
+	src:url("../assets/fonts/Montserrat/Montserrat-Medium.ttf");
 }
 body {
 	margin:0;
@@ -501,4 +501,7 @@ ol li .send {
 }
 a {
 	outline:none;
+}
+.style3{
+	line-height:40px;
 }
