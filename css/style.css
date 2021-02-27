@@ -1,7 +1,7 @@
 
 @charset "utf-8";
 @font-face{
-	font-family:'mohave';
+	font-family:'montserrat';
 	src:url("../assets/fonts/Montserrat/Montserrat-Medium.ttf");
 }
 body {
@@ -9,7 +9,7 @@ body {
 	padding:0;
 	width:100%;
 	color:#0e3956;
-	font:normal 14px/1.6em 'mohave','Liberation sans', Arial, Helvetica, sans-serif;
+	font:normal 14px/1.6em 'montserrrat','Liberation sans', Arial, Helvetica, sans-serif;
 	background:#fff url(../images/main_bg.gif) repeat-x left top;
 }
 html, .main {
