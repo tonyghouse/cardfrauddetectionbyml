@@ -1,1 +1,0 @@
-alert("project by Tony Ghouse");
