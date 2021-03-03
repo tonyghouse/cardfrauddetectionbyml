@@ -1,0 +1,8 @@
+dark blue--> #0e3956
+
+light blue-->#007cc9
+
+white shade blue-->#51a2d8
+
+
+ownblue-->#3593EB
